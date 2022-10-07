@@ -10,13 +10,13 @@ import source_1_3.ex_1_3_5 as ex_1_3_5
 
 
 
-#ex_1_3_1.run()
+ex_1_3_1.run()
 
-#ex_1_3_2.run("rotator")
+ex_1_3_2.run("rotator")
 
 ex_1_3_3.run(1945)
 
-#ex_1_3_4.run('[{}({})]')
+ex_1_3_4.run('[{}({})]')
 
-#ex_1_3_5.run('111', '101')
+ex_1_3_5.run('111', '101')
 
